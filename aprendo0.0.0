@@ -1,0 +1,5 @@
+Declaración de Variables:
+
+let - var - const
+
+son las palabras que se usan para definir variables, la principal diferencia es que, const es para variables que no cambian. Originalmente existía solo var, pero esto traía problemas, ya que al usar var dentro de un bloque o loop, este afecta a lo que esté fuera de ese bloque también. Var se creó para solucionar este tipo de problemas. Cuando var se usa dentro de una bloque o loop, solo afecta dentro de él.
