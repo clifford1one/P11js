@@ -5,4 +5,21 @@ CPU: Central Processing Unit.
 Componente principal de un pc. Procesa datos, coordina y controla operaciones, ejecuta instrucciones, etc.
 Su capacidad y velocidad influye en la velocidad del PC.
 
-GPU: Graphics Processing Unit. Especializado en el procesamiento de gráficos,
+GPU: Graphics Processing Unit. Especializado en el procesamiento de gráficos,animaciones, renders, etc.
+
+Video ejemplo: <https://www.youtube.com/watch?v=-P28LKWTzrI>
+
+WebGL es una API de javascripts, la cual permite la permite la creación y representación de gráfios
+(en un canvas) dentro del navegador. La mayor ventaja de este, es que utiliza la GPU del usuario
+que visita aquella web. Permite crear visuales que serían imposibles de crear con únicamente 
+con CSS o javascript. 
+
+WebGL es bastante complejo debido al "nivel" en que se encuentra, por lo que por lo general
+se recomienda trabajarlo con librerias:
+
+- <https://threejs.org>
+- <https://github.com/oframe/ogl>
+- <https://www.curtainsjs.com>
+
+
+
